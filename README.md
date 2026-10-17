@@ -7,12 +7,12 @@
 
 👨‍💻 Technical Skills:
 Languages and Tools:
-aws backbonejs bash css3 django express figma firebase framer git graphql heroku html5 illustrator javascript linux materialize mongodb nextjs nginx nodejs photoshop postgresql postman pug python react redis redux selenium sqlite tailwind typescript
+html5,javascript, mongodb,supabase,nextjs,nodejs,postgresql,python,react,tailwind,typescript
 
 🌐 Front-End ► Language: HTML, CSS3/SCSS/LESS, JavaScript, TypeScript
 ► Framework and Libraries: React/Redux & React Hooks, NextJS,TypeScript, Material UI, Reactstrap, Jquery, Semantic UI, JSS, Styled Components, TailWind, AntD ,Redux-Saga & Redux-Thunk, Redux-Form, React-Router, React-Helmet, React Charts, Leaflet, recharts and more!
 
 🔙 Back-End: ► Language: JavaScript,Node.js ► Framework: Express, Socket.io,Mongoose ► API: RESTful
 
-💾 DataBase Service: ► MondoDB,,supabase.
+💾 DataBase Service: ► MondoDB,,supabase, mongoose.
 🔒 Version Control System: GitHub/GitLab
